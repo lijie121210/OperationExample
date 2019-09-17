@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "OperationSample",
+        "repositoryURL": "git@github.com:lijie121210/OperationSample.git",
+        "state": {
+          "branch": null,
+          "revision": "30f2a31433d1a2a12f60b847dea9a2f673f61444",
+          "version": "1.0.7"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
